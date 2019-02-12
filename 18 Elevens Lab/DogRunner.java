@@ -13,5 +13,8 @@ public class DogRunner
 
 		Dog b = new Dog( "ann", 21);
 		System.out.println( b );
+
+		Dog c = new Dog( "brian", 30);
+		System.out.println( c );
 	}
 }
